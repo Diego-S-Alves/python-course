@@ -1,0 +1,16 @@
+"""
+Sorted = Não é sort!
+Sort só funciona em listas, sorted com qualquer iterável
+ordena elementos
+sorted nao modifica o iteravel
+sempre retorna uma lista com os elementos do iteravel ordenados
+
+Pode converter o resultado para outro tipo como tuple
+
+"""
+
+#Parametros
+
+numeros = [6, 1, 8, 2]
+print(sorted(numeros, reverse=True))
+
