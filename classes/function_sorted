@@ -1,16 +1,3 @@
-"""
-Sorted = Não é sort!
-Sort só funciona em listas, sorted com qualquer iterável
-ordena elementos
-sorted nao modifica o iteravel
-sempre retorna uma lista com os elementos do iteravel ordenados
-
-Pode converter o resultado para outro tipo como tuple
-
-"""
-
-#Parametros
-
-numeros = [6, 1, 8, 2]
-print(sorted(numeros, reverse=True))
-
+a = (lambda x: x + 2 for x in range(1, 3))
+print(type(a))
+x = list(a[45]) 
