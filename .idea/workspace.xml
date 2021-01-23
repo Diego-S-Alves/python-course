@@ -96,7 +96,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/raise.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes\raise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +171,14 @@
       <workItem from="1610737054541" duration="1058000" />
       <workItem from="1610986597435" duration="816000" />
       <workItem from="1611019614613" duration="1907000" />
-      <workItem from="1611058101349" duration="1695000" />
+      <workItem from="1611058101349" duration="1951000" />
+      <workItem from="1611075180849" duration="105000" />
+      <workItem from="1611101133623" duration="31000" />
+      <workItem from="1611255521105" duration="631000" />
+      <workItem from="1611335922242" duration="384000" />
+      <workItem from="1611343249728" duration="34000" />
+      <workItem from="1611343345625" duration="23000" />
+      <workItem from="1611367099958" duration="128000" />
     </task>
     <servers />
   </component>
@@ -183,35 +190,36 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-940" y="166" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1610726399485" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1611058850240">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1274" height="206" key="GridCell.Tab.0.bottom" timestamp="1611343368176">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611058850240" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="271" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1610738112925" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1611058850224">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1274" height="206" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
+    <state width="1274" height="206" key="GridCell.Tab.0.center" timestamp="1611343368176">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611058850224" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="271" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
-    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1610738112925" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1611058850224">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1274" height="206" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
+    <state width="1274" height="206" key="GridCell.Tab.0.left" timestamp="1611343368176">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611058850224" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="271" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
-    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1610738112925" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1611058850224">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1274" height="206" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
+    <state width="1274" height="206" key="GridCell.Tab.0.right" timestamp="1611343368176">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611058850224" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="271" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
-    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1610738112925" />
+    <state width="1274" height="206" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Course$generators.coverage" NAME="generators Coverage Results" MODIFIED="1610726609533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$len__abs__sum__round.coverage" NAME="len, abs, sum, round Coverage Results" MODIFIED="1611020871308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
-    <SUITE FILE_PATH="coverage/Python_Course$errors.coverage" NAME="errors Coverage Results" MODIFIED="1611058850224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/Python_Course$raise.coverage" NAME="raise Coverage Results" MODIFIED="1611343348851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/Python_Course$errors.coverage" NAME="errors Coverage Results" MODIFIED="1611059948682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$zip.coverage" NAME="zip Coverage Results" MODIFIED="1611058759396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1611020237624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />

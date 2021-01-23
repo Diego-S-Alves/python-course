@@ -2,9 +2,7 @@
 raise > lança exceções
 Não é uma função e sim uma palavra reservada.
 raise TipoDoErro('Mensagem de erro')
-
 nada depois do raise é executado
-
 """
 def colore(texto, cor):
     cores = ('verde', 'amarelo', 'azul', 'branco')
