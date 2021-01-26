@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,18 +28,41 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/classes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../google_scripts" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alvesd11\Documents\Repositories\google_scripts" />
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.raise">
+  <component name="RunManager" selected="Python.cartela de bingo(teste)">
+    <configuration name="cartela de bingo(teste)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes\cartela de bingo(teste).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="errors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,28 +129,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reversed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/reversed.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cartela de bingo(teste)" />
         <item itemvalue="Python.raise" />
         <item itemvalue="Python.errors" />
         <item itemvalue="Python.zip" />
         <item itemvalue="Python.len, abs, sum, round" />
-        <item itemvalue="Python.reversed" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +182,9 @@
       <workItem from="1611343345625" duration="23000" />
       <workItem from="1611367099958" duration="541000" />
       <workItem from="1611617628691" duration="119000" />
+      <workItem from="1611662798009" duration="129000" />
+      <workItem from="1611663708057" duration="21000" />
+      <workItem from="1611684329963" duration="32000" />
     </task>
     <servers />
   </component>
@@ -187,34 +192,39 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611617744247">
+    <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611662908102">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="-940" y="166" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1610726399485" />
+    <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611662908102" />
     <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1611617744247" />
-    <state width="1274" height="206" key="GridCell.Tab.0.bottom" timestamp="1611343368176">
+    <state x="624" y="180" key="FileChooserDialogImpl" timestamp="1611662922109">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="624" y="180" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611662922109" />
+    <state width="1274" height="174" key="GridCell.Tab.0.bottom" timestamp="1611663729793">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
+    <state width="1274" height="174" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611663729793" />
     <state width="1274" height="206" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
-    <state width="1274" height="206" key="GridCell.Tab.0.center" timestamp="1611343368176">
+    <state width="1274" height="174" key="GridCell.Tab.0.center" timestamp="1611663729793">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="271" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
+    <state width="1274" height="174" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611663729793" />
     <state width="1274" height="206" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
-    <state width="1274" height="206" key="GridCell.Tab.0.left" timestamp="1611343368176">
+    <state width="1274" height="174" key="GridCell.Tab.0.left" timestamp="1611663729793">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="271" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
+    <state width="1274" height="174" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611663729793" />
     <state width="1274" height="206" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
-    <state width="1274" height="206" key="GridCell.Tab.0.right" timestamp="1611343368176">
+    <state width="1274" height="174" key="GridCell.Tab.0.right" timestamp="1611663729793">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="271" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1610987529758" />
+    <state width="1274" height="174" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611663729793" />
     <state width="1274" height="206" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1611343368176" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -225,5 +235,6 @@
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$zip.coverage" NAME="zip Coverage Results" MODIFIED="1611058759396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1611020237624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/Python_Course$udemy_land_page.coverage" NAME="udemy land page Coverage Results" MODIFIED="1611684338892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
   </component>
 </project>
