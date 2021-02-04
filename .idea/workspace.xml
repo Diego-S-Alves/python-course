@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/Debugando com PDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/Debugando com PDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/Collections - Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,9 @@
   </component>
   <component name="JupyterTrust" id="311861e9-b651-4e6a-b5e4-928ca0b15a37" />
   <component name="ProjectId" id="1n6gaISZlV4qICPmC9gCwu5DNGE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,7 +65,29 @@
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch">
+  <component name="RunManager" selected="Python.Collections - Counter">
+    <configuration name="Collections - Counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/Collections - Counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="any_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,28 +124,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes\cartela de bingo(teste).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="errors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/errors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Collections - Counter" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.any_all" />
         <item itemvalue="Python.cartela de bingo(teste)" />
         <item itemvalue="Python.raise" />
-        <item itemvalue="Python.errors" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +217,7 @@
       <workItem from="1612188495923" duration="3896000" />
       <workItem from="1612287280927" duration="817000" />
       <workItem from="1612376413589" duration="36000" />
-      <workItem from="1612442841198" duration="680000" />
+      <workItem from="1612442841198" duration="1276000" />
     </task>
     <servers />
   </component>
@@ -243,30 +246,34 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="624" y="180" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612191550722" />
-    <state width="1637" height="366" key="GridCell.Tab.0.bottom" timestamp="1612376448384">
+    <state width="1637" height="366" key="GridCell.Tab.0.bottom" timestamp="1612444055227">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="2" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612192396054" />
+    <state width="1637" height="366" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444055227" />
     <state width="1637" height="366" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612376448384" />
-    <state width="1637" height="366" key="GridCell.Tab.0.center" timestamp="1612376448384">
+    <state width="1637" height="366" key="GridCell.Tab.0.center" timestamp="1612444055227">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="2" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612192396054" />
+    <state width="1637" height="366" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444055227" />
     <state width="1637" height="366" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612376448384" />
-    <state width="1637" height="366" key="GridCell.Tab.0.left" timestamp="1612376448384">
+    <state width="1637" height="366" key="GridCell.Tab.0.left" timestamp="1612444055227">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="2" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612192396054" />
+    <state width="1637" height="366" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444055227" />
     <state width="1637" height="366" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612376448384" />
-    <state width="1637" height="366" key="GridCell.Tab.0.right" timestamp="1612376448384">
+    <state width="1637" height="366" key="GridCell.Tab.0.right" timestamp="1612444055227">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
-    <state width="1637" height="2" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612192396054" />
+    <state width="1637" height="366" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444055227" />
     <state width="1637" height="366" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612376448384" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1612443670865">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612443670865" />
     <state x="507" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611684399741">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -276,12 +283,13 @@
     <SUITE FILE_PATH="coverage/Python_Course$any_all.coverage" NAME="any_all Coverage Results" MODIFIED="1612189548952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$generators.coverage" NAME="generators Coverage Results" MODIFIED="1610726609533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$len__abs__sum__round.coverage" NAME="len, abs, sum, round Coverage Results" MODIFIED="1611020871308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
-    <SUITE FILE_PATH="coverage/Python_Course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1612376438102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1612444044918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Python_Course$raise.coverage" NAME="raise Coverage Results" MODIFIED="1611343348851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$errors.coverage" NAME="errors Coverage Results" MODIFIED="1611059948682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$zip.coverage" NAME="zip Coverage Results" MODIFIED="1611058759396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1611020237624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$udemy_land_page.coverage" NAME="udemy land page Coverage Results" MODIFIED="1611684338892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/Python_Course$Collections___Counter.coverage" NAME="Collections - Counter Coverage Results" MODIFIED="1612444055216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
   </component>
 </project>
