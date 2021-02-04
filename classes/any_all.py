@@ -1,41 +1,14 @@
-class Agenda:
+vetor_1 = []
+vetor_2 = []
 
-    def __init__(self):
+vetor_intersccao = []
 
-        self.base = {}
+for numero in range(10):
+    vetor_1.append(int(input(f"Informe os numeros para o vetor 1 :  {numero} /10  : ")))
+    vetor_2.append(int(input(f"Informe os numeros para o vetor 2 :  {numero} /10   : ")))
 
-    def inserir(self, posicao, nome, idade, altura):
+print(vetor_1)
+print(vetor_2)
 
-        self.posicao = posicao
-
-        self.nome = nome
-
-        self.idade = idade
-
-        self.altura = altura
-
-        if 'nomes' not in self.base:
-
-            self.base['nomes'] = {'posicao': posicao, 'nome': nome, 'idade': idade, 'altura': altura}
-
-        else:
-
-            self.base['nomes'].update({'posicao': posicao, 'nome': nome, 'idade': idade, 'altura': altura})
-
-    def listar(self):
-
-        for posicao, nome, idade, altura in self.base['nomes'].items():
-            print(posicao, nome, idade, altura)
-
-    def apagar(self, nome):
-
-        del self.base['nomes'][nome]
-
-
-nome01 = Agenda()
-
-nome01.inserir('01', 'Jamesson', 40, 1.78)
-
-nome01.inserir('02', 'João', 40, 1.80)
-
-nome01.listar()
+vetor_intersccao = list(set(vetor_1).intersection(vetor_2))
+print(f"numeros intersecção dos vetores 1 e 2 {vetor_intersccao}")
