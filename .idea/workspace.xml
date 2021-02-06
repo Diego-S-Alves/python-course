@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,6 +219,7 @@
       <workItem from="1612459981532" duration="5246000" />
       <workItem from="1612556351086" duration="28000" />
       <workItem from="1612574529200" duration="802000" />
+      <workItem from="1612576805452" duration="43000" />
     </task>
     <servers />
   </component>
@@ -246,10 +245,11 @@
     <state x="-940" y="166" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1610726399485" />
     <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611662908102" />
     <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1611617744247" />
-    <state x="624" y="180" key="FileChooserDialogImpl" timestamp="1612191550722">
+    <state x="624" y="180" key="FileChooserDialogImpl" timestamp="1612576841049">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="624" y="180" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612191550722" />
+    <state x="624" y="180" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1612576841049" />
     <state width="1435" height="311" key="GridCell.Tab.0.bottom" timestamp="1612575332489">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
