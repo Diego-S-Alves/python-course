@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/named tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/deque.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,8 @@
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.named tuple">
-    <configuration name="Default Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.deque">
+    <configuration name="deque" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +80,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/Default Dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/deque.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deque" />
         <item itemvalue="Python.named tuple" />
         <item itemvalue="Python.ordered_dict" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.scratch_1" />
-        <item itemvalue="Python.Default Dict" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,7 @@
       <workItem from="1612442841198" duration="1517000" />
       <workItem from="1612459981532" duration="5246000" />
       <workItem from="1612556351086" duration="28000" />
-      <workItem from="1612574529200" duration="587000" />
+      <workItem from="1612574529200" duration="775000" />
     </task>
     <servers />
   </component>
@@ -251,30 +251,30 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="624" y="180" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612191550722" />
-    <state width="1435" height="311" key="GridCell.Tab.0.bottom" timestamp="1612575076962">
+    <state width="1435" height="311" key="GridCell.Tab.0.bottom" timestamp="1612575254198">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1435" height="311" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612575076962" />
-    <state width="1435" height="311" key="GridCell.Tab.0.center" timestamp="1612575076961">
+    <state width="1435" height="311" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612575254198" />
+    <state width="1435" height="311" key="GridCell.Tab.0.center" timestamp="1612575254197">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1435" height="311" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612575076961" />
-    <state width="1435" height="311" key="GridCell.Tab.0.left" timestamp="1612575076961">
+    <state width="1435" height="311" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612575254197" />
+    <state width="1435" height="311" key="GridCell.Tab.0.left" timestamp="1612575254197">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1435" height="311" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612575076961" />
-    <state width="1435" height="311" key="GridCell.Tab.0.right" timestamp="1612575076962">
+    <state width="1435" height="311" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612575254197" />
+    <state width="1435" height="311" key="GridCell.Tab.0.right" timestamp="1612575254198">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1435" height="311" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612575076962" />
+    <state width="1435" height="311" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612575254198" />
     <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1612465502507">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -311,6 +311,7 @@
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$zip.coverage" NAME="zip Coverage Results" MODIFIED="1611058759396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$Collections___Counter.coverage" NAME="Collections - Counter Coverage Results" MODIFIED="1612444315218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/Python_Course$deque.coverage" NAME="deque Coverage Results" MODIFIED="1612575254187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$generators.coverage" NAME="generators Coverage Results" MODIFIED="1610726609533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$named_tuple.coverage" NAME="named tuple Coverage Results" MODIFIED="1612575076953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$raise.coverage" NAME="raise Coverage Results" MODIFIED="1611343348851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
