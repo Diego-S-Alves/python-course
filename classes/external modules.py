@@ -6,7 +6,9 @@ https://pypi.org (pacotes oficiais)
 pip no terminal mostra todos os comandos
 
 colorama - impressao de textos coloridos no terminal
+dir(colorama) mostra as funções
 
+pydf
 """
 
 from colorama import init, Fore
