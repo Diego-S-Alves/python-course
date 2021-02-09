@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/pacotes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/dunder main e dunder name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +227,7 @@
       <workItem from="1612831021074" duration="1212000" />
       <workItem from="1612890277632" duration="101000" />
       <workItem from="1612890451546" duration="785000" />
-      <workItem from="1612894331467" duration="1982000" />
+      <workItem from="1612894331467" duration="2163000" />
     </task>
     <servers />
   </component>
@@ -254,6 +253,10 @@
     <state x="-940" y="166" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1610726399485" />
     <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1611662908102" />
     <state x="524" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1611617744247" />
+    <state x="704" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1612897132438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="704" y="103" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1612897132438" />
     <state x="624" y="180" key="FileChooserDialogImpl" timestamp="1612576841049">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
