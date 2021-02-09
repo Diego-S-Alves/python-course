@@ -23,6 +23,8 @@ print(random())
 
 print(randint(3, 7))
 
-print(shuffle('Geek'))
+lista = ['Geek', 'University', 'Python']
+shuffle(lista)
+print(lista)
 
 print(choice('University'))
