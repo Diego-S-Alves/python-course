@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="" />
+    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +65,7 @@
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.modulo_random">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="deque" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.modulo_random" />
         <item itemvalue="Python.deque" />
         <item itemvalue="Python.named tuple" />
         <item itemvalue="Python.ordered_dict" />
-        <item itemvalue="Python.scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +223,7 @@
       <workItem from="1612574529200" duration="802000" />
       <workItem from="1612576805452" duration="43000" />
       <workItem from="1612664322534" duration="1759000" />
+      <workItem from="1612810549251" duration="641000" />
     </task>
     <servers />
   </component>
@@ -251,30 +254,30 @@
     </state>
     <state x="624" y="180" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612191550722" />
     <state x="624" y="180" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1612576841049" />
-    <state width="1116" height="225" key="GridCell.Tab.0.bottom" timestamp="1612666575430">
+    <state width="1637" height="225" key="GridCell.Tab.0.bottom" timestamp="1612811194527">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1116" height="225" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612666575430" />
-    <state width="1116" height="225" key="GridCell.Tab.0.center" timestamp="1612666575430">
+    <state width="1637" height="225" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1612811194527" />
+    <state width="1637" height="225" key="GridCell.Tab.0.center" timestamp="1612811194527">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1116" height="225" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612666575430" />
-    <state width="1116" height="225" key="GridCell.Tab.0.left" timestamp="1612666575430">
+    <state width="1637" height="225" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1612811194527" />
+    <state width="1637" height="225" key="GridCell.Tab.0.left" timestamp="1612811194527">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1116" height="225" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612666575430" />
-    <state width="1116" height="225" key="GridCell.Tab.0.right" timestamp="1612666575430">
+    <state width="1637" height="225" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1612811194527" />
+    <state width="1637" height="225" key="GridCell.Tab.0.right" timestamp="1612811194527">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@-1366.0.1366.728" timestamp="1611060055074" />
     <state width="1637" height="366" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1612444360816" />
-    <state width="1116" height="225" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612666575430" />
+    <state width="1637" height="225" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1612811194527" />
     <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1612465502507">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -306,7 +309,7 @@
     <SUITE FILE_PATH="coverage/Python_Course$ordered_dict.coverage" NAME="ordered_dict Coverage Results" MODIFIED="1612575074115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1612463693557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Python_Course$len__abs__sum__round.coverage" NAME="len, abs, sum, round Coverage Results" MODIFIED="1611020871308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
-    <SUITE FILE_PATH="coverage/Python_Course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1612556359171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1612811003437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Python_Course$errors.coverage" NAME="errors Coverage Results" MODIFIED="1611059948682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$zip.coverage" NAME="zip Coverage Results" MODIFIED="1611058759396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
