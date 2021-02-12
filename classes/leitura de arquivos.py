@@ -6,6 +6,8 @@ retorna um _io.TextIOWraper e é com ele que trabalhamos. Há varios parametros 
 open abre somente para leitura
 
 read() - > ler o conteudo do arquivo
+
+lembrar do principio do cursor na leitura do arquivo
 """
 arquivo = open('forms_script_template')
 
