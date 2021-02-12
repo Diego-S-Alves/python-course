@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/leitura de arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/leitura de arquivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/seek e cursors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +233,7 @@
       <workItem from="1613082359804" duration="1168000" />
       <workItem from="1613147816173" duration="269000" />
       <workItem from="1613148276449" duration="494000" />
-      <workItem from="1613164998800" duration="624000" />
+      <workItem from="1613164998800" duration="734000" />
     </task>
     <servers />
   </component>
