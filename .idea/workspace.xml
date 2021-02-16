@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/modos de arquivos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/writing_in_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/writing_in_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/modos de arquivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/modos de arquivos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +236,7 @@
       <workItem from="1613147816173" duration="269000" />
       <workItem from="1613148276449" duration="494000" />
       <workItem from="1613164998800" duration="1177000" />
-      <workItem from="1613479437273" duration="1616000" />
+      <workItem from="1613479437273" duration="1868000" />
     </task>
     <servers />
   </component>
