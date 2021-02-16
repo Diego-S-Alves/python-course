@@ -22,3 +22,5 @@ streaming é o nome da conexão que fica entre o arquivo e pc usando o open(), d
 3 - fechar arquivo
 """
 arquivo.close()
+
+print(arquivo.closed) #true se o arquivo estiver fechado
