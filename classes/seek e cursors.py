@@ -15,3 +15,10 @@ x = arquivo.readline()
 print(x.split(' '))
 
 #readlines -> quantidade de linhas
+"""
+streaming é o nome da conexão que fica entre o arquivo e pc usando o open(), deve-se encerrar usando o close() quando se terminar de usar
+1 - usar arquivo
+2 - trabalhar arquivo
+3 - fechar arquivo
+"""
+arquivo.close()
