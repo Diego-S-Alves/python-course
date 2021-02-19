@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/classes/geradores.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/geradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/generators-memory-test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,7 @@
       <workItem from="1613584886021" duration="547000" />
       <workItem from="1613595642837" duration="1517000" />
       <workItem from="1613694209392" duration="65000" />
-      <workItem from="1613745654800" duration="1964000" />
+      <workItem from="1613745654800" duration="2004000" />
     </task>
     <servers />
   </component>
