@@ -1,4 +1,5 @@
-"""Python any() function
+"""
+Python any() function
 The any() function returns True if any item in an iterable are true, otherwise it returns False. However, if the iterable object is empty, the any () function will return False.
 
 Syntax
