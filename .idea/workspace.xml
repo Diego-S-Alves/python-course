@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="" />
+    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/classes/speed-test-generators-expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/speed-test-generators-expression.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.geradores">
+  <component name="RunManager" selected="Python.speed-test-generators-expression">
     <configuration name="geradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writing_in_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="speed-test-generators-expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +168,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/writing_in_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes/speed-test-generators-expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.speed-test-generators-expression" />
         <item itemvalue="Python.geradores" />
         <item itemvalue="Python.iterador_custom" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.iteradores e iteraveis" />
-        <item itemvalue="Python.writing_in_files" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +240,7 @@
       <workItem from="1613584886021" duration="547000" />
       <workItem from="1613595642837" duration="1517000" />
       <workItem from="1613694209392" duration="65000" />
-      <workItem from="1613745654800" duration="2479000" />
+      <workItem from="1613745654800" duration="2737000" />
     </task>
     <servers />
   </component>
@@ -284,6 +286,7 @@
     <SUITE FILE_PATH="coverage/python_course$bloco_with.coverage" NAME="bloco_with Coverage Results" MODIFIED="1613480459616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$raise.coverage" NAME="raise Coverage Results" MODIFIED="1611343348851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$len__abs__sum__round.coverage" NAME="len, abs, sum, round Coverage Results" MODIFIED="1611020871308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/python_course$speed_test_generators_expression.coverage" NAME="speed-test-generators-expression Coverage Results" MODIFIED="1613748748794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/python_course$seek_e_cursors.coverage" NAME="seek e cursors Coverage Results" MODIFIED="1613480317712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
   </component>
 </project>
