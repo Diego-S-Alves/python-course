@@ -5,7 +5,8 @@ obs, o contrario não é verdadeiro, nem todo iterator é um generator
 funçoes geradores podem criar generators
 palavra reservada "yield"
 expressoes geradoras
-diferenças entre:
+
+return ja sai da funçao direto, yield permanece aguardando
 """
 
 def conta_ate(valor_maximo):
