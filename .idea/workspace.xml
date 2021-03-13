@@ -66,7 +66,7 @@
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.speed-test-generators-expression">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="geradores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,10 +179,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.speed-test-generators-expression" />
         <item itemvalue="Python.geradores" />
         <item itemvalue="Python.iterador_custom" />
-        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.iteradores e iteraveis" />
       </list>
     </recent_temporary>
@@ -241,6 +241,7 @@
       <workItem from="1613595642837" duration="1517000" />
       <workItem from="1613694209392" duration="65000" />
       <workItem from="1613745654800" duration="3623000" />
+      <workItem from="1615315766522" duration="2367000" />
     </task>
     <servers />
   </component>
@@ -260,7 +261,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1613596535190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/python_course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1615318527375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Python_Course$any_all.coverage" NAME="any_all Coverage Results" MODIFIED="1612189548952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/Python_Course$function_sorted.coverage" NAME="function_sorted Coverage Results" MODIFIED="1611020140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
     <SUITE FILE_PATH="coverage/python_course$iterador_custom.coverage" NAME="iterador_custom Coverage Results" MODIFIED="1613745868098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
