@@ -6,7 +6,7 @@ funçoes como argumnetos para outras funçoes e até mesmo criar variaveis do ti
 nossos programas.
 
 em python as funçoes sao first class citizens
-
+nested functions = inner functions
 """
 
 # definindo funçoes
@@ -17,4 +17,11 @@ def calcular(num1, num2, funcao):
     return funcao(num1 + num2)
 
 # nested functions
+from random import choice
 
+def cumprimento(pessoa):
+    def humor():
+        return choice(('E ai', 'Suma!', 'gosto de voce'))
+    return humor() + pessoa
+
+print(cumprimento('Diego'))
