@@ -7,5 +7,9 @@ forma de desenvolvimento de software
 3 - Programaçao FUncional
 
 depende da linguagem de programaçao, por exemplo C não suporta orientaçao a objetos.
+mapear objetos do mundo real em modelos computacionais
+
+Objetos = Instâncias
+
 
 """
