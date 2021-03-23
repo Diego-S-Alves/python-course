@@ -11,5 +11,7 @@ mapear objetos do mundo real em modelos computacionais
 
 Objetos = Instâncias
 
+métodos = comportamento do objeto, metodos parecem com funçoes, pois metodo esta dentro da classe, unica diferença
+
 
 """

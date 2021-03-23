@@ -20,9 +20,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/POO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple exercises/File 99.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/POO.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes/POO.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +150,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -251,7 +351,7 @@
       <workItem from="1616009940794" duration="234000" />
       <workItem from="1616094063992" duration="260000" />
       <workItem from="1616442969053" duration="615000" />
-      <workItem from="1616461247842" duration="1068000" />
+      <workItem from="1616461247842" duration="2594000" />
     </task>
     <servers />
   </component>
@@ -269,6 +369,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_course$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1616442985604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
