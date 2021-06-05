@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/teste.py" afterDir="false" />
-    </list>
+    <list default="true" id="6e1f8e9d-f894-4079-9d2e-f9ccca0e8162" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,17 +53,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/POO" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diegodsa\Documents\GitHub\python-course\POO" />
       <recent name="C:\Users\alvesd11\Documents\GitHub\web-development-course" />
       <recent name="C:\Users\alvesd11\Desktop" />
       <recent name="C:\Users\alvesd11\Documents\Repositories\google_scripts" />
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
-      <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alvesd11\Documents\Repositories\Python-Course\classes" />
@@ -259,7 +257,7 @@
       <workItem from="1620408368934" duration="175000" />
       <workItem from="1620754779645" duration="186000" />
       <workItem from="1621274905922" duration="22000" />
-      <workItem from="1622852875893" duration="67000" />
+      <workItem from="1622852875893" duration="675000" />
     </task>
     <servers />
   </component>
