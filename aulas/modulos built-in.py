@@ -28,3 +28,4 @@ shuffle(lista)
 print(lista)
 
 print(choice('University'))
+
