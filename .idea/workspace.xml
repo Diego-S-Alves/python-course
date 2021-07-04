@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e3d0bc1-4c33-4e9e-8193-679e872d9c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/try_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/writing_in_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/writing_in_files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625438187743</updated>
       <workItem from="1625438190867" duration="25000" />
-      <workItem from="1625438218207" duration="33000" />
+      <workItem from="1625438218207" duration="118000" />
     </task>
     <servers />
   </component>
