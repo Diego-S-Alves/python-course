@@ -10,4 +10,3 @@ with open('teste', 'w') as arquivo: #modo de abertura do arquivo 'w'
     arquivo.write('quantas linhas quisermos. \n')
 
 #tratamento de strings funciona normalmente
-
