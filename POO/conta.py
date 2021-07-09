@@ -9,8 +9,10 @@ class Conta:
 
     def extrato(self):
         print(f"Saldo {self.saldo} do titular {self.titular}")
-        
 
 
+conta = Conta(123, "Diego", 55.5, 1000.0)
+
+print(conta.extrato())
 
 
