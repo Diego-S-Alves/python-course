@@ -7,7 +7,14 @@ class Conta:
         self.saldo = saldo
         self.limite = limite
 
+    def extrato(self):
+        print(f"Saldo {self.saldo} do titular {self.titular}")
 
-conta1 = Conta(123, "Diego S", 300.0, 1000.0)
+    def deposita(self, valor):
+        self.saldo += valor
 
-print(conta1.numero)
+    def saca(self, valor):
+        self.saldo -= valor
+
+
+
